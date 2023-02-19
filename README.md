@@ -1,2 +1,2 @@
 # Bookstore Management API
-Created CRUD API using Go and MySQL
+ CRUD API using Go and MySQL
